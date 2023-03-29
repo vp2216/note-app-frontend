@@ -1,6 +1,6 @@
 # Note App
 
-Aopp lets you create, read, update and delete notes. App is created using ReactJS and the backend is created using NodeJS. Uses MongoDB as the database to save the notes and the user informations.
+App lets you create, read, update and delete notes. App is created using ReactJS and the backend is created using NodeJS. Uses MongoDB as the database to save the notes and the user informations.
 
 Register to the app  
 
